@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1
+{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.div2
+{
+    text-align: center;
+}
+
+.div3
+{
+    margin-top: 20px;
+    margin-bottom: 10%;
+}
+
+.pragraph2
+{   
+    font-size: 20px;
+    text-align: left;
+    margin-left: 40px;
+    color: gray;
+}
+
+.img
+{
+    width: 100%;
+}
+
+/* mobile */
+#mpragraph1
+{   
+    font-size: 15px;
+    text-align: center;
+    padding: 15px;
+    color: gray;
+}
+
+.mpragraph2
+{   
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+    color: gray;
+}
+
+.newhr{
+    border-style: none;
+    border-top-style: solid;
+    border-color: orange;
+    border-width: 10px;
+    width: 10%;
+    border-radius: 10px;
+}
+
+/* tablet */
+#tpragraph1
+{   
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    color: gray;
+}
+
+.newhr2{
+    border-style: none;
+    border-top-style: solid;
+    border-color: orange;
+    border-width: 10px;
+    width: 5%;
+    border-radius: 10px;
+}
+
+/* computer */
+#cdiv1
+{
+    margin-top: 5%;
+    text-align: center;
+}
+
+#cpragraph1
+{   
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    color: gray;
+}
+
+.newhr3{
+    border-style: none;
+    border-top-style: solid;
+    border-color: orange;
+    border-width: 10px;
+    width: 4%;
+    border-radius: 10px;
+}
